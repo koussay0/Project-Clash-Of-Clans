@@ -1,0 +1,69 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>images/background.png</file>
+        <file>images/caslte.png</file>
+        <file>images/fence.png</file>
+        <file>images/grass.png</file>
+        <file>images/cannon.png</file>
+        <file>images/enemy.png</file>
+        <file>images/bullet.png</file>
+        <file>images/MainMenue.jpg</file>
+        <file>images/citizenWorker.png</file>
+        <file>images/cannonball_PNG10.png</file>
+        <file>images/GameOver.png</file>
+        <file>images/NextLevel.png</file>
+        <file>images/You win.jpg</file>
+        <file>images/health maker.png</file>
+        <file>images/Map1.png.jpg</file>
+        <file>images/Map2.png.jpg</file>
+        <file>images/MAP3.png.jpg</file>
+        <file>images/OptionsBackground.jpg</file>
+        <file>images/Greyphoto.jpg</file>
+        <file>images/dessertTown_Hall.png</file>
+        <file>images/ICYTown_Hall.png</file>
+        <file>images/Town_Hall.png</file>
+        <file>images/snowemptyland.jpg</file>
+        <file>images/snowybackground.png</file>
+        <file>images/dessertbackground.png</file>
+        <file>images/sandemptyland.jpg</file>
+        <file>images/dessertfence.png</file>
+        <file>images/icefence.png</file>
+    </qresource>
+    <qresource prefix="/new/Sound">
+        <file>Sound/bulletshot.wav</file>
+        <file>Sound/dead.mp3</file>
+        <file>Sound/HealthMarkersActivated.mp3</file>
+        <file>Sound/level-win-6416.mp3</file>
+        <file>Sound/WINGAME.mp3</file>
+        <file>Sound/HealthMarkersDeactivation.mp3</file>
+        <file>Sound/GameOver.wav</file>
+        <file>Sound/FinalBackgroundMusic.mp3</file>
+    </qresource>
+    <qresource prefix="/ClanMaps">
+        <file>Clan Maps/Map1.txt</file>
+        <file>Clan Maps/Map2.txt</file>
+        <file>Clan Maps/Map3.txt</file>
+    </qresource>
+    <qresource prefix="/Defense Images">
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/5.png</file>
+        <file>images/6.png</file>
+        <file>images/7.png</file>
+        <file>images/8.png</file>
+        <file>images/9.png</file>
+        <file>images/10.png</file>
+        <file>images/11.png</file>
+        <file>images/12.png</file>
+    </qresource>
+    <qresource prefix="/citizen">
+        <file>images/citizen 1.png</file>
+        <file>images/citizen2.png</file>
+    </qresource>
+    <qresource prefix="/dragon">
+        <file>images/dragon1.png</file>
+        <file>images/dragon2.png</file>
+    </qresource>
+</RCC>
